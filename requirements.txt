@@ -1,0 +1,9 @@
+# COVID-19 Data Explorer — runtime dependencies
+streamlit>=1.38.0
+pandas>=2.2.0
+plotly>=5.22.0
+requests>=2.31.0
+statsmodels>=0.14.0
+
+# Dev/test dependency:
+pytest>=7.4.0
